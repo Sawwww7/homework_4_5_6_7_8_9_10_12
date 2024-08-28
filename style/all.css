@@ -1204,6 +1204,10 @@ input:focus{
     height: 1160px;
   }
 
+  .profession__description {
+    width: 320px;
+  }
+
   .btn-box{
     padding-bottom: 20px;
   }
